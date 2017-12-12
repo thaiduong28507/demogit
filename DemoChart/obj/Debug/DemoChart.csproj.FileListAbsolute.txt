@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\DemoChart\DemoChart\bin\DemoChart.dll.config
+C:\Users\User\Desktop\DemoChart\DemoChart\bin\DemoChart.dll
+C:\Users\User\Desktop\DemoChart\DemoChart\bin\DemoChart.pdb
+C:\Users\User\Desktop\DemoChart\DemoChart\obj\Debug\DemoChart.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DemoChart\DemoChart\obj\Debug\DemoChart.dll
+C:\Users\User\Desktop\DemoChart\DemoChart\obj\Debug\DemoChart.pdb
+E:\cnnet\DemoChart\DemoChart\bin\DemoChart.dll.config
+E:\cnnet\DemoChart\DemoChart\bin\DemoChart.dll
+E:\cnnet\DemoChart\DemoChart\bin\DemoChart.pdb
+E:\cnnet\DemoChart\DemoChart\obj\Debug\DemoChart.csprojResolveAssemblyReference.cache
+E:\cnnet\DemoChart\DemoChart\obj\Debug\DemoChart.dll
+E:\cnnet\DemoChart\DemoChart\obj\Debug\DemoChart.pdb
